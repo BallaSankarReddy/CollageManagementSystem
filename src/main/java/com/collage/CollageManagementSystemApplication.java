@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CollageManagementSystemApplication {
 
 	public static void main(String[] args) {
-		System.out.println("CollageManagementSystemApplication test ");
 		SpringApplication.run(CollageManagementSystemApplication.class, args);
 	}
 
